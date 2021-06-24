@@ -1,5 +1,5 @@
 # berryBloom
 
-#My first file
+#My first repository
 
 ............... Just a learner !
