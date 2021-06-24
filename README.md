@@ -2,4 +2,4 @@
 
 #My first file
 
-...............Just a learner !
+............... Just a learner !
